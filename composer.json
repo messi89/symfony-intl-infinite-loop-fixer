@@ -2,7 +2,7 @@
     "name": "messi89/symfony-intl-infinite-loop-fixer",
     "description": "Provider a small fix for Symfony 2.7|2.8 with locale compose from PHP Intl extension.",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.1|^7.2"
     },
