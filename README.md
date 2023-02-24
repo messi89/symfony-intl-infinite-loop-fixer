@@ -31,7 +31,7 @@ composer require messi89/symfony-intl-infinite-loop-fixer
 
 - Now you can enable php intl again
 ```bash
-phpdenmod -v 7.2 intl 
+phpenmod -v 7.2 intl 
 service php7.2-fpm restart
 ```
 ### Enjoy !
