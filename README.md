@@ -1,5 +1,5 @@
 # symfony-intl-infinite-loop-fixer
-Provider a small fix for Symfony 2.7|2.8 with locale composer from PHP Intl extension.
+Provider a small fix for Symfony 2.7|2.8 with locale composee from PHP Intl extension.
 
 1. Add the GitHub repos to composer repositories
 ```json
